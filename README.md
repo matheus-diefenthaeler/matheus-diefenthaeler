@@ -3,6 +3,7 @@
 Me chamo Matheus, sou Engenheiro de Controle e Automação 👷🏻‍♂️ e estou em transição de carreira para a área de TI 👨🏻‍🎓
 
 - ⏳ Atualmente aprendendo Java, Springboot, ReactJS, Banco de dados, Testes unitários.
+- ⏳ Aluno do Bootcamp - Devsuperior turma 5 - Trilhas Backend e Frontend - Conclusão (30/julho/2021)
 - 🏃🏻‍♂️ Estou em busca de uma oportunidade para atuar como desenvolvedor JAVA (fullstack, backend e/ou frontend)
 - 📫 Contato: matheus.axo@gmail.com
 - ♨ Linguagens: Java, JavaScript, html e css
