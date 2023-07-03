@@ -1,11 +1,11 @@
 ### <h2> Olá! </h2>
 
-Me chamo Matheus, sou Engenheiro de Controle e Automação 👷🏻‍♂️ e estou em transição de carreira para a área de TI 👨🏻‍🎓
+Me chamo Matheus, atuo como Backend Developer 👨🏻‍🎓
 
-- ⏳ Atualmente aprendendo Java, Springboot, ReactJS, Banco de dados, Testes unitários.
-- ⏳ Aluno do Bootcamp - Devsuperior turma 5 - Trilhas Backend e Frontend - Conclusão (10/Dezembro/2021)
-- 📫 Contato: matheus.axo@gmail.com
-- ♨ Linguagens: Java, JavaScript, html e css
+- ⏳ Atualmente aprendendo Java, Python, Springboot, Cloud Computing (AWS).
+- ⏳ Aluno da FIAP - Pos-Tech - Arquitetura e Desenvolimento JAVA - Conclusão (01/Março/2024)
+- 📫 Contato: matheus.dieff@gmail.com
+- ♨ Linguagens: Java e Python
 
  <div>
   <a href="https://github.com/matheus-diefenthaeler">
