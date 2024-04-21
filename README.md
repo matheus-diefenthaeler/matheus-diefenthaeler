@@ -2,7 +2,7 @@
 
 Me chamo Matheus, atuo como Backend Developer 👨🏻‍🎓
 
-- ⏳ Atualmente aprendendo Java, Python, Springboot, Cloud Computing (AWS).
+- 👨‍💼 Possuo experiencias com Java, Python, Springboot, Cloud Computing (AWS).
 - ⏳ Aluno da FIAP - Pos-Tech - Arquitetura e Desenvolimento JAVA - Conclusão (01/Março/2024)
 - 📫 Contato: matheus.dieff@gmail.com
 - ♨ Linguagens: Java e Python
